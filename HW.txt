@@ -1,0 +1,10 @@
+Activity 1:
+Design sprites required for Pacman
+Design a simple Pacman kind of game with characters
+Pacman, Ghost objects like Blinky, Pinky, Inky, Clyde,
+and multiple fruit objects.
+
+Activity
+2 :Game Play
+Develop a game (add functionality) using the above
+sprites and with your creativity
